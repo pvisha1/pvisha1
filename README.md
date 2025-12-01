@@ -39,7 +39,6 @@ I enjoy building *industry-oriented projects*, especially in:
 - Build a complete *automotive wiring harness portfolio*  
 - Strengthen CATIA & FEA mastery  
 - Secure a *Design Engineer/Harness Design role* in the Automotive/ EV domain  
-- Move towards *international opportunities (Germany/Europe)*  
 
 ---
 
