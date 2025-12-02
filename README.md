@@ -22,7 +22,7 @@ I enjoy building *industry-oriented projects*, especially in:
 
 ## 🛠 My Projects
 ### 🔹 *Suspension Arm Design for Bajaj Three-Wheeler*
-- CATIA 3D model + assembly  
+- SOLIDWORKS model + assembly  
 - ISO engineering drawing  
 - ANSYS FEA (stress & deformation)  
 - DFMEA + design optimization  
