@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vishal Patil  
-### Mechanical Engineer | CAD Designer | Automotive Wiring Harness Learner
+### Mechanical Engineer | CAD Designer | Automotive Wiring Harness Design
 
 ---
 
